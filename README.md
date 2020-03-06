@@ -4,6 +4,7 @@ Prerequisite for GSOC2020
 To run the app:
 ```
 git clone https://github.com/abhimnc/note-taking-app.git
+cd note-taking-app
 python manage.py migrate
 python manage.py runserver
 ```
